@@ -11,11 +11,11 @@
 
 ### 🐍 Snake Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg) -->
 
 ![Snake animation dark](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Snake animation light](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+<!-- ![Snake animation light](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-light.svg#gh-light-mode-only) -->
 
 ![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg)
 
