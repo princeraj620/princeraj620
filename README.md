@@ -9,7 +9,8 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/main/github-contribution-grid-snake.svg)
+
 
 
 
