@@ -11,11 +11,17 @@
 
 ### 🐍 Snake Contribution Graph
 
+<!-- Default snake (light mode by default) -->
 ![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg)
 
+<!-- Dark mode snake -->
 ![Snake animation dark](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<!-- Light mode snake -->
 ![Snake animation light](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+
+<!-- Streak style snake (LeetCode-like streak visualization) -->
+![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=princeraj620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
