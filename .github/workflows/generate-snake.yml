@@ -1,26 +1,46 @@
-name: Generate Snake
+name: Generate Snake (diagnostic)
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual run
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate snake animation (all themes)
+      - name: Generate default snake
         uses: Platane/snk@v3
         with:
           github_user_name: princeraj620
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
-            dist/github-contribution-grid-snake-streak.svg?palette=github
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Generate dark snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: princeraj620
+          # generate with the 'github-dark' palette (query-string style — supported by the action)
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate streak-style snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: princeraj620
+          # try a custom-ish palette (the action supports query args in outputs)
+          outputs: dist/github-contribution-grid-snake-streak.svg?palette=github&color_snake=%23FF9F1C&color_dot=%23FFD166
+
+      - name: Show generated files (diagnostic)
+        run: |
+          echo "== dist listing =="
+          ls -la dist || true
+          echo "== head of files =="
+          for f in dist/*.svg; do echo "---- $f ----"; head -n 10 "$f"; done
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
