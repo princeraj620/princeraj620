@@ -100,7 +100,6 @@
 - Hyundai Hope Scholarship (Project grant)
 - Reliance Foundation UG Scholar
 - Finalist — Overnite 2024 at IIT Kharagpur
-- Top **6%** in JEE Advanced 2022
 
 ---
 
