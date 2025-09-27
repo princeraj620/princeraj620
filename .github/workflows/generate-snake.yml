@@ -25,5 +25,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          publish_branch: output   # 👈 sends it to "output" branch
+          publish_dir: dist        # 👈 the folder where snake.svg is generated
