@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Prince Raj
 
-🎓 Dual Degree Student @ **IIT Kharagpur** (B.Tech Hons. Mining + M.Tech Safety Engg.)  
-💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
+🎓 Dual Degree Student @ **IIT Kharagpur** (B.Tech+M.Tech)  
+Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
 
 ---
 
@@ -86,6 +86,9 @@
 
 ## 🚀 Featured Projects
 
+- [AI-Human-Voice_The-Empathy-Engine](https://github.com/princeraj620/AI-Human-Voice_The-Empathy-Engine)
+- [The-Unified-AI-Customer-Brain](https://github.com/princeraj620/The-Unified-AI-Customer-Brain)
+- [The Pitch Visualizer-From words to Storyboard](https://github.com/princeraj620/The-Pitch-Visualizer-From-Words-to-Storyboard)
 - [Linear-theory-calculator](https://github.com/princeraj620/Linear-theory-calculator)
 - [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
 - [ai-powered-student-assistant-chatbot](https://github.com/princeraj620/ai-powered-student-assistant-chatbot)
