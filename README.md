@@ -7,13 +7,16 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
 ## 🚀 Featured Projects
 
 - [Notiflow](https://github.com/princeraj620/notiflow)
+- [Agentic BI Copilot](https://github.com/princeraj620/Agentic-BI-copilot)
+- [QueueForge](https://github.com/princeraj620/QueueForge)
+- [Quill-DB](https://github.com/princeraj620/Quill-DB)
+- [Notiflow](https://github.com/princeraj620/notiflow)
 - [AI-Human-Voice_The-Empathy-Engine](https://github.com/princeraj620/AI-Human-Voice_The-Empathy-Engine)
 - [The-Unified-AI-Customer-Brain](https://github.com/princeraj620/The-Unified-AI-Customer-Brain)
 - [The Pitch Visualizer-From words to Storyboard](https://github.com/princeraj620/The-Pitch-Visualizer-From-Words-to-Storyboard)
 - [Linear-theory-calculator](https://github.com/princeraj620/Linear-theory-calculator)
 - [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
-- [ai-powered-student-assistant-chatbot](https://github.com/princeraj620/ai-powered-student-assistant-chatbot)
-- [Pragati-AI-For-Impact](https://github.com/princeraj620/Pragati-AI-For-Impact)
+- [sales-data-engineering-platform](https://github.com/princeraj620/sales-data-engineering-platform)
 - [MineRouteX-Intelligent-Mine-Dispatch-System](https://github.com/princeraj620/MineRouteX-Intelligent-Mine-Dispatch-System)
   
 
