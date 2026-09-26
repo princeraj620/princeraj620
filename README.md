@@ -6,7 +6,7 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
 
 ## 🚀 Featured Projects
 
-- [Notiflow](https://github.com/princeraj620/notiflow)
+- [Notiflow](https://github.com/princeraj620/notiflow) - abc
 - [Agentic BI Copilot](https://github.com/princeraj620/Agentic-BI-copilot)
 - [QueueForge](https://github.com/princeraj620/QueueForge)
 - [Quill-DB](https://github.com/princeraj620/Quill-DB)
