@@ -3,6 +3,7 @@
 🎓 Dual Degree Student @ **IIT Kharagpur** (B.Tech+M.Tech)  
 Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
 
+--
 
 ## 🚀 Featured Projects
 
@@ -17,6 +18,8 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
 - [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
 - [sales-data-engineering-platform](https://github.com/princeraj620/sales-data-engineering-platform)
 - [MineRouteX-Intelligent-Mine-Dispatch-System](https://github.com/princeraj620/MineRouteX-Intelligent-Mine-Dispatch-System)
+
+--
   
 
 ## 📊 GitHub Analytics
