@@ -28,19 +28,19 @@
 
 I have built a sequence of 5 projects, built one after another, covering most of High-Level System Design - from client-server basics to distributed, fault-tolerant, real-time systems.
 
-1. [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System) - 10,000 people. One seat. Nobody double-books it.
+1. [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System) - 10,000 people. One seat. Nobody double-books it.<br>
    🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design.
 
-2. [Collaborative Polling & Live Voting Platform](https://github.com/princeraj620/Collaborative-Polling-Live-Voting-Platform) - Millions vote. Results move in real time, not next week.
+2. [Collaborative Polling & Live Voting Platform](https://github.com/princeraj620/Collaborative-Polling-Live-Voting-Platform) - Millions vote. Results move in real time, not next week.<br>
    🟡 **Covers:** SQL vs NoSQL, Database Indexing, Replication, Sharding, CAP Theorem, Consistency Models.
 
-3. [Food Delivery Order Orchestration System](https://github.com/princeraj620/Food-Delivery-Order-Orchestration-System) - Your order, four services deep, zero blocking calls.
+3. [Food Delivery Order Orchestration System](https://github.com/princeraj620/Food-Delivery-Order-Orchestration-System) - Your order, four services deep, zero blocking calls.<br>
    🟡 **Covers:** Message Queues, Kafka/RabbitMQ, Pub-Sub, Event-Driven Architecture, Microservices, API Gateway, Service Discovery.
 
-4. [Podcast/Audio Streaming Platform](https://github.com/princeraj620/EchoCast---Podcast-Audio-Streaming-Platform) - Streams worldwide. Never buffers. Knows what you'll play next.
+4. [Podcast/Audio Streaming Platform](https://github.com/princeraj620/EchoCast---Podcast-Audio-Streaming-Platform) - Streams worldwide. Never buffers. Knows what you'll play next.<br>
    🟡 **Covers:** Object Storage, Distributed Storage, CDN, Caching, Consistency Models, Feed Generation, Fan-out Strategies.
 
-5. [Multiplayer Real-Time Trivia Game Platform](https://github.com/princeraj620/Multiplayer-Real-Time-Trivia-Game-Platform) - Thousands in one room. One leaderboard. All of it live.
+5. [Multiplayer Real-Time Trivia Game Platform](https://github.com/princeraj620/Multiplayer-Real-Time-Trivia-Game-Platform) - Thousands in one room. One leaderboard. All of it live.<br>
    🟡 **Covers:** WebSockets, Fault Tolerance, Failover, Consensus Basics, Leader Election, Authentication & Authorization, Encryption, Monitoring, Logging, Metrics, Distributed Tracing.
 
 --
