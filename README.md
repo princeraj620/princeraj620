@@ -1,13 +1,43 @@
-# 👋 Hey there, I'm Prince Raj
+<h1 align="center">👋 Hey there, I'm Prince Raj</h1>
 
-🎓 Dual Degree Student @ **IIT Kharagpur** (B.Tech+M.Tech)  
-Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
+<h3 align="center">🎓 Dual Degree Student (B.Tech + M.Tech) @ IIT Kharagpur</h3>
+<h4 align="center">Micro-Specialization in AI & Applications | Generative AI and AI Agents for Business Transformation | Entrepreneurship and Innovation</h4>
+
+<p align="center">
+  💻 Software Developer Intern @ <b>Aon</b> &nbsp;|&nbsp;
+  🔬 Ex-Research Intern @ <b>Tata Steel</b> &nbsp;|&nbsp;
+  🧠 Competitive Programmer &nbsp;|&nbsp;
+  🌐 System Design Enthusiast
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🏗️ I build **distributed, production-style systems** — from event-driven pipelines to real-time platforms — to turn System Design theory into working code.
+- 💼 Currently authoring and quality-checking **algorithmic assessment content** for enterprise clients at **Aon**, stress-testing solutions across 37+ languages.
+- 🔬 Previously built **AI-driven fleet optimization pipelines** at **Tata Steel**, processing 8,000+ route evaluations/minute at sub-200ms latency.
+- 🧩 Self-built projects span **Kafka-based notification systems**, **real-time analytics platforms**, and a **C++ database engine from scratch**.
+- 🏆 LeetCode rating **1891** (Knight badge, Global Rank 91) &nbsp;|&nbsp; Codeforces rating **1690**.
+- 🌱 Currently exploring **Agentic AI, distributed systems, and large-scale backend architecture**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Data:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Tools & Cloud:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · Caching Strategies
 
 --
 
 ## 🏗️ System Design (HLD) Projects
 
-A sequence of 5 projects, built one after another, covering most of High-Level System Design - from client-server basics to distributed, fault-tolerant, real-time systems.
+I have built a sequence of 5 projects, built one after another, covering most of High-Level System Design - from client-server basics to distributed, fault-tolerant, real-time systems.
 
 - [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System) - A platform where thousands of users try to book the same concert/movie seats at once, handling traffic spikes fairly while preventing double-booking. 🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design.
 - [Collaborative Polling & Live Voting Platform](https://github.com/princeraj620/Collaborative-Polling-Live-Voting-Platform) - A system where millions of users vote in a live poll and results update in near real-time, with vote data replicated and sharded across regions. 🟡 **Covers:** SQL vs NoSQL, Database Indexing, Replication, Sharding, CAP Theorem, Consistency Models.
