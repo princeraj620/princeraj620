@@ -12,6 +12,18 @@
 
 --
 
+### 🐍 Snake Contribution Graph
+
+<!-- ![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation dark](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- ![Snake animation light](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-light.svg#gh-light-mode-only) -->
+
+<!-- ![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg) -->
+
+--
+
 ## 🏗️ System Design (HLD) Projects
 
 I have built a sequence of 5 projects, built one after another, covering most of High-Level System Design - from client-server basics to distributed, fault-tolerant, real-time systems.
@@ -45,16 +57,7 @@ I have built a sequence of 5 projects, built one after another, covering most of
 
 <div align="center">
 
-### 🐍 Snake Contribution Graph
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg) -->
-
-![Snake animation dark](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<!-- ![Snake animation light](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-light.svg#gh-light-mode-only) -->
-
-<!-- ![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg) -->
-
+--
 
 <img src="https://github-readme-stats.vercel.app/api?username=princeraj620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
