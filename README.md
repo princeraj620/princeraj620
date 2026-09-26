@@ -22,16 +22,6 @@
 
 <!-- ![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg) -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeraj620&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 --
 
 ## 🏗️ System Design (HLD) Projects
@@ -105,6 +95,18 @@ I have built a sequence of 5 projects, built one after another, covering most of
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+--
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeraj620&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+--
 
 ## 🌐 Socials
 
