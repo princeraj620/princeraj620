@@ -4,7 +4,7 @@
 #### Micro-Specialization in AI & Applications | Generative AI and AI Agents for Business Transformation | Entrepreneurship and Innovation
 
 <p align="center">
-  💻 Software Developer Intern @ <b>Aon</b> &nbsp;|&nbsp;
+  💻 Coding Intern @ <b>Aon</b> &nbsp;|&nbsp;
   🔬 Ex-Research Intern @ <b>Tata Steel</b> &nbsp;|&nbsp;
   🧠 Competitive Programmer &nbsp;|&nbsp;
   🌐 System Design Enthusiast
