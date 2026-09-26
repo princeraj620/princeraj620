@@ -8,8 +8,8 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
 
 - [Notiflow](https://github.com/princeraj620/notiflow) - Event-driven notification delivery system (email/SMS/push) built with FastAPI, Kafka, Redis, and React.
 - [Agentic BI Copilot](https://github.com/princeraj620/Agentic-BI-copilot) - An AI-powered business intelligence system that lets you ask natural-language questions about your data.
-- [QueueForge](https://github.com/princeraj620/QueueForge) - A distributed, multi-tenant job orchestration engine. Jobs arrive over an HTTP API, are recorded durably in MongoDB, dispatched through Kafka.
-- [Quill-DB](https://github.com/princeraj620/Quill-DB) - A mini database engine written from scratch in modern C++17
+- [QueueForge](https://github.com/princeraj620/QueueForge) - A distributed, multi-tenant job orchestration engine. Jobs arrive over an HTTP API, are recorded durably in MongoDB.
+- [Quill-DB](https://github.com/princeraj620/Quill-DB) - A mini database engine written from scratch in modern C++17.
 - [AI-Human-Voice_The-Empathy-Engine](https://github.com/princeraj620/AI-Human-Voice_The-Empathy-Engine) - Emotion-aware voice AI web app that analyzes text sentiment, detects emotion intensity, and generates expressive speech in real time.
 - [The-Unified-AI-Customer-Brain](https://github.com/princeraj620/The-Unified-AI-Customer-Brain) - Unifies customer interactions across voice, chat, email, and social channels into a single intelligent system.
 - [The Pitch Visualizer-From words to Storyboard](https://github.com/princeraj620/The-Pitch-Visualizer-From-Words-to-Storyboard) - AI-powered system that transforms narrative text into a structured visual storyboard.
