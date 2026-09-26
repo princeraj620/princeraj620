@@ -22,6 +22,20 @@
 
 <!-- ![Snake streak](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake-streak.svg) -->
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+--
+
+<img src="https://github-readme-stats.vercel.app/api?username=princeraj620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj620&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeraj620&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 --
 
 ## 🏗️ System Design (HLD) Projects
@@ -49,23 +63,6 @@ I have built a sequence of 5 projects, built one after another, covering most of
 - [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
 - [sales-data-engineering-platform](https://github.com/princeraj620/sales-data-engineering-platform)
 - [MineRouteX-Intelligent-Mine-Dispatch-System](https://github.com/princeraj620/MineRouteX-Intelligent-Mine-Dispatch-System)
-
---
-  
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
---
-
-<img src="https://github-readme-stats.vercel.app/api?username=princeraj620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj620&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeraj620&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
