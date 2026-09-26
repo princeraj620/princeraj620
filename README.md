@@ -12,7 +12,7 @@
 
 --
 
-### 🐍 Snake Contribution Graph
+### 🐍 
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/princeraj620/princeraj620/output/github-contribution-grid-snake.svg) -->
 
