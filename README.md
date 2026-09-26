@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm Prince Raj</h1>
+# 👋 Hey there, I'm Prince Raj
 
-<h3 align="center">🎓 Dual Degree Student (B.Tech + M.Tech) @ IIT Kharagpur</h3>
-<h4 align="center">Micro-Specialization in AI & Applications | Generative AI and AI Agents for Business Transformation | Entrepreneurship and Innovation</h4>
+### 🎓 Dual Degree Student (B.Tech + M.Tech) @ IIT Kharagpur
+#### Micro-Specialization in AI & Applications | Generative AI and AI Agents for Business Transformation | Entrepreneurship and Innovation
 
 <p align="center">
   💻 Software Developer Intern @ <b>Aon</b> &nbsp;|&nbsp;
