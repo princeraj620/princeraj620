@@ -3,7 +3,19 @@
 🎓 Dual Degree Student @ **IIT Kharagpur** (B.Tech+M.Tech)  
 Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
 
----
+
+## 🚀 Featured Projects
+
+- [Notiflow](https://github.com/princeraj620/notiflow)
+- [AI-Human-Voice_The-Empathy-Engine](https://github.com/princeraj620/AI-Human-Voice_The-Empathy-Engine)
+- [The-Unified-AI-Customer-Brain](https://github.com/princeraj620/The-Unified-AI-Customer-Brain)
+- [The Pitch Visualizer-From words to Storyboard](https://github.com/princeraj620/The-Pitch-Visualizer-From-Words-to-Storyboard)
+- [Linear-theory-calculator](https://github.com/princeraj620/Linear-theory-calculator)
+- [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
+- [ai-powered-student-assistant-chatbot](https://github.com/princeraj620/ai-powered-student-assistant-chatbot)
+- [Pragati-AI-For-Impact](https://github.com/princeraj620/Pragati-AI-For-Impact)
+- [MineRouteX-Intelligent-Mine-Dispatch-System](https://github.com/princeraj620/MineRouteX-Intelligent-Mine-Dispatch-System)
+  
 
 ## 📊 GitHub Analytics
 
@@ -81,28 +93,6 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
   <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-- [AI-Human-Voice_The-Empathy-Engine](https://github.com/princeraj620/AI-Human-Voice_The-Empathy-Engine)
-- [The-Unified-AI-Customer-Brain](https://github.com/princeraj620/The-Unified-AI-Customer-Brain)
-- [The Pitch Visualizer-From words to Storyboard](https://github.com/princeraj620/The-Pitch-Visualizer-From-Words-to-Storyboard)
-- [Linear-theory-calculator](https://github.com/princeraj620/Linear-theory-calculator)
-- [complaint-resolver](https://github.com/princeraj620/complaint-resolver)
-- [ai-powered-student-assistant-chatbot](https://github.com/princeraj620/ai-powered-student-assistant-chatbot)
-- [Pragati-AI-For-Impact](https://github.com/princeraj620/Pragati-AI-For-Impact)
-- [MineRouteX-Intelligent-Mine-Dispatch-System](https://github.com/princeraj620/MineRouteX-Intelligent-Mine-Dispatch-System)
-
----
-
-## 🏆 Achievements
-
-- LeetCode rating **1891**; Knight badge; global rank **109** in Biweekly Contest 159
-- Hyundai Hope Scholarship (Project grant)
-- Reliance Foundation UG Scholar
-- Finalist — Overnite 2024 at IIT Kharagpur
 
 ---
 
