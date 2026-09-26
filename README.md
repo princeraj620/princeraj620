@@ -11,7 +11,7 @@ A sequence of 5 projects, built one after another, covering most of High-Level S
 
 ### 1. [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System)
 A platform where thousands of users try to book the same concert/movie seats at once, handling traffic spikes fairly while preventing double-booking.
- 🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design
+ 🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design(https://img.shields.io/badge/Covers-Client--Server%20Basics%2C%20HTTP%2FHTTPS%2C%20DNS%2C%20Load%20Balancing%2C%20Caching%2C%20Rate%20Limiting%2C%20API%20Design-yellow)
 
 ### 2. [Collaborative Polling & Live Voting Platform](https://github.com/princeraj620/Collaborative-Polling-Live-Voting-Platform)
 A system where millions of users vote in a live poll and results update in near real-time, with vote data replicated and sharded across regions.
