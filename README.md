@@ -7,7 +7,7 @@ Gen Ai Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open
 
 ## 🏗️ System Design (HLD) Projects
 
-A sequence of 5 projects, built one after another, covering most of High-Level System Design — from client-server basics to distributed, fault-tolerant, real-time systems.
+A sequence of 5 projects, built one after another, covering most of High-Level System Design - from client-server basics to distributed, fault-tolerant, real-time systems.
 
 ### 1. [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System)
 A platform where thousands of users try to book the same concert/movie seats at once, handling traffic spikes fairly while preventing double-booking.
