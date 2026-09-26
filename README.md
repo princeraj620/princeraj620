@@ -11,23 +11,23 @@ A sequence of 5 projects, built one after another, covering most of High-Level S
 
 ### 1. [Live Event Ticketing & Seat Reservation System](https://github.com/princeraj620/Live-Event-Ticketing-Seat-Reservation-System)
 A platform where thousands of users try to book the same concert/movie seats at once, handling traffic spikes fairly while preventing double-booking.
- 🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design(https://img.shields.io/badge/Covers-Client--Server%20Basics%2C%20HTTP%2FHTTPS%2C%20DNS%2C%20Load%20Balancing%2C%20Caching%2C%20Rate%20Limiting%2C%20API%20Design-yellow)
+ 🟡 **Covers:** Client-Server Basics, HTTP/HTTPS, DNS, Load Balancing, Caching, Rate Limiting, API Design
 
 ### 2. [Collaborative Polling & Live Voting Platform](https://github.com/princeraj620/Collaborative-Polling-Live-Voting-Platform)
 A system where millions of users vote in a live poll and results update in near real-time, with vote data replicated and sharded across regions.
-**Covers:** SQL vs NoSQL, Database Indexing, Replication, Sharding, CAP Theorem, Consistency Models
+ 🟡 **Covers:** SQL vs NoSQL, Database Indexing, Replication, Sharding, CAP Theorem, Consistency Models
 
 ### 3. [Food Delivery Order Orchestration System](https://github.com/princeraj620/Food-Delivery-Order-Orchestration-System)
 An order moves through independent stages — restaurant confirmation, rider assignment, payment, notification — communicating asynchronously.
-**Covers:** Message Queues, Kafka/RabbitMQ, Pub-Sub, Event-Driven Architecture, Microservices, API Gateway, Service Discovery
+ 🟡 **Covers:** Message Queues, Kafka/RabbitMQ, Pub-Sub, Event-Driven Architecture, Microservices, API Gateway, Service Discovery
 
 ### 4. [Podcast/Audio Streaming Platform](https://github.com/princeraj620/EchoCast---Podcast-Audio-Streaming-Platform)
 Users upload audio episodes stored as large media files and streamed worldwide with minimal buffering, plus a personalized recommendation feed.
-**Covers:** Object Storage, Distributed Storage, CDN, Caching, Consistency Models, Feed Generation, Fan-out Strategies
+ 🟡 **Covers:** Object Storage, Distributed Storage, CDN, Caching, Consistency Models, Feed Generation, Fan-out Strategies
 
 ### 5. [Multiplayer Real-Time Trivia Game Platform](https://github.com/princeraj620/Multiplayer-Real-Time-Trivia-Game-Platform)
 A live trivia game where thousands of players join a room, answer questions in real time, and see a live leaderboard — bringing together concepts from all previous projects.
-**Covers:** WebSockets, Fault Tolerance, Failover, Consensus Basics, Leader Election, Authentication & Authorization, Encryption, Monitoring, Logging, Metrics, Distributed Tracing
+ 🟡 **Covers:** WebSockets, Fault Tolerance, Failover, Consensus Basics, Leader Election, Authentication & Authorization, Encryption, Monitoring, Logging, Metrics, Distributed Tracing
 
 --
 
